@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **proavipatil@gmail.com**
+- 📫 How to reach me **hello@avipatilweb.me**
 
 - ⚡ Fun fact **Coffee**
 
