@@ -10,12 +10,11 @@
            
 <h4 align="center">Also Meet me at <a href="https://github.com/avipatilpro"><b>AviPatilPro</b></a></h4> <br>
 
-- 🔭 I’m currently working on [Private Project](#)
+- 🔭 I’m currently Studying In Collage
 - 🌱 I’m currently learning **Phython, Java, Desgining**
 - 👯 I’m looking to collaborate on [Private Project](#)
 - 🤝 I’m looking for help with [Some New Projects](#)
 - 👨‍💻 All of my projects are available at [https://avipatilweb.me](https://avipatilweb.me)
-- 📝 I regulary write articles on [https://pacy.ml](https://pacy.ml)
 - 💬 Ask me about **anything**
 - ⚡ Fun fact **Coffee**
 
