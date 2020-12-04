@@ -11,7 +11,7 @@
            
 <h4 align="center">Also Meet me at <a href="https://github.com/avipatilpro"><b>AviPatilPro</b></a></h4> <br>
 
-<p align="center"> <a href="https://github.com/avipatilpro/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=proavipatil&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
+<p align="center"> <a href="https://github.com/proavipatil/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=proavipatil&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
 - 🔭 I’m currently Studying In Collage
 - 🌱 I’m currently learning **Phython, Java, Desgining**
