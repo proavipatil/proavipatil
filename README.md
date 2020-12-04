@@ -23,7 +23,7 @@
 
 <br><br>
 
-```
+```py
 About Me = [
     "I'm student with noob dev labels",
     "A know about of Python, Kotlin, C, C++, Html, PHP, CSS, Java",
