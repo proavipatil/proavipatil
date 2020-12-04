@@ -41,4 +41,4 @@ About Me = [
 
 
 <p align="center">&nbsp;<a href="https://github.com/proavipatil"><img align="center" src="https://github-readme-stats.vercel.app/api?username=proavipatil&theme=algolia&show_icons=true" alt="ProAviPatil"/></a></p>
-<code><p align="center">&nbsp;<a href="https://github.com/proavipatil/YouTube-HLS-Stream-Sniper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=proavipatil&theme=algolia&repo=YouTube-HLS-Stream-Sniper" alt="YT & HLS Stream Sniper"/></a></p></code>
+<p align="center">&nbsp;<a href="https://github.com/proavipatil/YouTube-HLS-Stream-Sniper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=proavipatil&theme=algolia&repo=YouTube-HLS-Stream-Sniper" alt="YT & HLS Stream Sniper"/></a></p>
