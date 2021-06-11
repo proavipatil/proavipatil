@@ -17,19 +17,18 @@
 - 🌱 I’m currently learning **Phython, Java, Desgining**
 - 👯 I’m looking to collaborate on [Private Project](#)
 - 🤝 I’m looking for help with [Some New Projects](#)
-- 👨‍💻 All of my projects are available at [https://avipatilweb.me](https://avipatilweb.me)
 - 💬 Ask me about **anything**
 - ⚡ Fun fact **Coffee**
 
 
-- 📫 How to reach me **aviflix@pm.me or hello@avipatilweb.me**
+- 📫 How to reach me **itsavipatil@gmail.com** or [@AvishkarPatil](https://Telegram.me/AvishkarPatil) [ Telegram ]
 
 <br><br>
 
 ```py
 About Me = [
     "I'm student with noob dev labels",
-    "A know about of Python, Kotlin, C, C++, Html, PHP, CSS, Java",
+    "A know about of Python,C, C++, Html, PHP, CSS, Java",
     "New Things with code everyday",
     "I am in my world !! 💞"
 ]
