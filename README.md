@@ -6,7 +6,7 @@
    <a href="https://www.hackerrank.com/avishkarpatil64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avishkarpatil64" height="30" width="40" /></a>        
 </p>
 
-<h3 align="center">A passionate frontend developer from India, Kolhapur</h3>
+
 <h4 align="center" >Open-Source Profession and Always Develop in Python 🐍.</h4>
            
 <h4 align="center">Also Meet me at <a href="https://github.com/avipatilpro"><b>AviPatilPro</b></a></h4> <br>
