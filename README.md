@@ -3,13 +3,8 @@
 <p align="center">
 <a href="https://codepen.io/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="avipatilpro" height="30" width="30" /></a>
 <a href="https://dev.to/avipatilpro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="avipatilpro" height="30" width="30" /></a>
-   <a href="https://www.hackerrank.com/avishkarpatil64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avishkarpatil64" height="30" width="40" /></a>        
+   <a href="https://www.hackerrank.com/avishkarpatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="avishkarpatil64" height="30" width="40" /></a>        
 </p>
-
-
-<h4 align="center" >Open-Source Profession and Always Try to Create Different🐍.</h4>
-           
-<h4 align="center">Also Meet me at <a href="https://github.com/avipatilpro"><b>AviPatilPro</b></a></h4> <br>
 
 <p align="center"> <a href="https://github.com/proavipatil/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=proavipatil&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
