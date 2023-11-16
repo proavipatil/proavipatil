@@ -8,13 +8,6 @@
 
 <p align="center"> <a href="https://github.com/proavipatil/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=proavipatil&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
-- 🔭 I’m currently Studying In Collage
-- 🌱 I’m currently learning **Phython, Java, Desgining**
-- 👯 I’m looking to collaborate on [Private Project](#)
-- 🤝 I’m looking for help with [Some New Projects](#)
-- 💬 Ask me about **anything**
-- ⚡ Fun fact **Coffee**
-
 
 - 📫 How to reach me **itsavipatil@gmail.com** or [@AvishkarPatil](https://Telegram.me/AvishkarPatil) [ Telegram ]
 
